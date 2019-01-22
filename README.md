@@ -12,5 +12,4 @@ This utility is still very much in its early stages, but as it currently stands 
 
 Here is a video demo of its basic utility: https://www.youtube.com/watch?v=Y1JhILsKsuM
 
-
-
+There is also a Windows equivalent of this tool which utilizes PowerShell. That can be found here: https://github.com/itsKindred/winPortPush
